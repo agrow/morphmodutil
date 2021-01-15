@@ -1476,7 +1476,7 @@
     "fly|true",
     "float|-0.114,true"
   ],
-  "aether_legacy.entity.aerwhale": [
+  "com.gildedgames.the_aether.entities.passive.EntityAerwhale": [
     "fly|true"
   ],
   "net.aetherteam.aether.entities.EntityAechorPlant": [
@@ -1498,7 +1498,7 @@
   "net.aetherteam.aether.entities.EntitySentryGolem": [
     "hostile"
   ],
-  "aether_legacy.entity.sheepuff": [
+  "com.gildedgames.the_aether.entities.passive.EntitySheepuff": [
     "float|-0.114,true"
   ],
   "net.aetherteam.aether.entities.EntityTempest": [
@@ -1532,20 +1532,20 @@
     "fireImmunity",
     "fallNegate"
   ],
-  "aether_legacy.entity.aerbunny": [
+  "com.gildedgames.the_aether.entities.passive.mountable.EntityAerbunny": [
     "float|-0.114,true"
   ],
-  "aether_legacy.entity.flying_cow": [
+  "com.gildedgames.the_aether.entities.passive.mountable.EntityFlyingCow": [
     "fly|true"
   ],
   "net.aetherteam.aether.entities.mounts.EntityMoa": [
     "fly|true",
     "float|-0.114,true"
   ],
-  "aether_legacy.entity.phyg": [
+  "com.gildedgames.the_aether.entities.passive.mountable.EntityPhyg": [
     "fly|true"
   ],
-  "aether_legacy.entity.swet": [
+  "com.gildedgames.the_aether.entities.passive.mountable.EntitySwet": [
     "fallNegate"
   ],
   "net.lomeli.ec.entity.EntityDarkCreeper" : [
