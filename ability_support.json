@@ -2141,5 +2141,30 @@
     "hostile",
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityGecko": [
+    "climb"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityFirefly": [
+    "fly|true"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityDragonFly": [
+    "fly|true"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityChiromaw": [
+    "fly|true",
+	"hostile"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityChiromawGreeblingRider": [
+    "fly|true",
+	"hostile"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityChiromawMatriarch": [
+    "fly|true",
+	"hostile"
+  ],
+  "thebetweenlands.common.entity.mobs.EntityGasCloud": [
+    "fly|true",
+	"hostile"
   ]
 }
