@@ -2166,5 +2166,9 @@
   "thebetweenlands.common.entity.mobs.EntityGasCloud": [
     "fly|true",
 	"hostile"
+  ],
+  "thebetweenlands.common.entity.mobs.EntitySwampHag": [
+    "hostile",
+    "poisonResistance"
   ]
 }
